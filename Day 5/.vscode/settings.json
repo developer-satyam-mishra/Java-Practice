@@ -1,0 +1,9 @@
+{
+    "chat.agent.enabled": false,
+    "editor.overtypeCursorStyle": "line",
+    "editor.find.cursorMoveOnType": true,
+    "terminal.integrated.altClickMovesCursor": false,
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorStyle": "line"
+}
