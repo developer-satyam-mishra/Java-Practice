@@ -5,7 +5,7 @@ class AreaCircle{
     System.out.println("Enter the radius of the circle");
     float radius=scan.nextFloat();
     float pie=3.14f;
-    float area= 2*radius*pie;
+    float area= radius*radius*pie;
     System.out.println("Area of circle is "+area);
 
 
