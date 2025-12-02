@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class ThreeNumbers{
     public static void main(String[]args){
         Scanner scan=new Scanner(System.in);
